@@ -1,0 +1,22 @@
+
+body{
+    background-color: #eAf6f6;
+}
+hr{
+border-style:dotted none none;
+border-color:grey;
+border-width:5px;
+width:6%;
+}
+img{
+height: 125px;
+border-radius: 50%;
+}
+h1{
+  color: #5eb7b7;
+   font-family:Courier New;
+}
+h3{
+  color:#66BfBf;
+   font-family:Lucida Console;
+}
